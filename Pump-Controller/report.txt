@@ -1,0 +1,12 @@
+Updated 100n from C_filter to C_filter1.
+Updated 15u from C_Lg_Elec to C_Lg_Elec1.
+Updated 0.1n from C_Sm_Cer to C_Sm_Cer1.
+Updated D_Zener from D_RP_Prot to D_RP_Prot1.
+Updated 50k from R_gate to R_gate1.
+Updated 5 from R_sense to R_sense1.
+Updated Screw_Terminal_01x02 from V_M to V_M1.
+Updated Screw_Terminal_01x02 from V_OUT to V_OUT1.
+Updated Screw_Terminal_01x02 from V_PWM to V_PWM1.
+Updated Screw_Terminal_01x01 from V_sense to V_sense1.
+Annotation complete.
+Annotation complete.
